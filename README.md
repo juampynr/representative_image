@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/juampynr/representative_image.svg?style=svg)](https://circleci.com/gh/juampynr/representative_image)
 
+# This project has been moved to https://www.drupal.org/project/representative_image
+
 Representative Image allows you to define a field for each entity bundle that
 should be referenced to display an image when a representative image for an
 entity is requested.
